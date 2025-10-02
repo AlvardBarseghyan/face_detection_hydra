@@ -1,0 +1,6 @@
+name: "cnn"
+filters: [32, 64, 128, 256]
+kernel_size: 3
+num_classes: 10
+
+

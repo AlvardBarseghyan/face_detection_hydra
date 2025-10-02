@@ -1,0 +1,4 @@
+name: "vgg"
+trainable: false
+num_classes: 10
+

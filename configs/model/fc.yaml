@@ -1,0 +1,5 @@
+name: "fc"
+hidden_units: [512, 256, 128, 64]
+dropouts: [0.5, 0.5, 0.3, 0.3]
+num_classes: 10
+
